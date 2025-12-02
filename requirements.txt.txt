@@ -1,0 +1,3 @@
+telethon
+selenium
+mysql-connector-python
